@@ -3,6 +3,10 @@
     "version": "0.1.31",
     "download_url": "https://github.com/auradevelopment-tebex/aura_bridge/releases/latest"
   },
+  "aura_foodtruck": {
+    "version": "2.0.1",
+    "download_url": "https://github.com/auradevelopment-tebex/aura_foodtruck/releases/latest"
+  },
   "aura_zoom": {
     "version": "0.1.11",
     "download_url": "https://github.com/auradevelopment-tebex/aura_zoom/releases/latest"
