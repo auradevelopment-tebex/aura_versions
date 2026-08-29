@@ -7,6 +7,10 @@
     "version": "1.0.6",
     "download_url": "https://github.com/auradevelopment-tebex/aura_dailyrewards/releases/latest"
   },
+  "aura_dialog": {
+    "version": "1.0.2",
+    "download_url": "https://github.com/auradevelopment-tebex/aura_dialog/releases/latest"
+  },
   "aura_foodtruck": {
     "version": "2.0.5",
     "download_url": "https://github.com/auradevelopment-tebex/aura_foodtruck/releases/latest"
