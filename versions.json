@@ -15,6 +15,10 @@
     "version": "2.0.5",
     "download_url": "https://github.com/auradevelopment-tebex/aura_foodtruck/releases/latest"
   },
+  "aura_loadingscreen": {
+    "version": "1.0.1",
+    "download_url": "https://portal.cfx.re/assets/granted-assets"
+  },
   "aura_rentvehicle": {
     "version": "1.0.9",
     "download_url": "https://github.com/auradevelopment-tebex/aura_rentvehicle/releases/latest"
