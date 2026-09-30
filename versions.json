@@ -19,6 +19,10 @@
     "version": "1.0.2",
     "download_url": "https://portal.cfx.re/assets/granted-assets"
   },
+  "aura_pawnshop": {
+    "version": "1.0.1",
+    "download_url": "https://github.com/auradevelopment-tebex/aura_pawnshop/releases/latest"
+  },
   "aura_rentvehicle": {
     "version": "1.0.9",
     "download_url": "https://github.com/auradevelopment-tebex/aura_rentvehicle/releases/latest"
